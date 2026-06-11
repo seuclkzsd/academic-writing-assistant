@@ -1,0 +1,5 @@
+streamlit>=1.36
+openai>=1.40
+python-dotenv>=1.0
+bibtexparser>=1.4
+requests>=2.31
